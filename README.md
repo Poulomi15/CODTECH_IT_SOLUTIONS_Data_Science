@@ -66,5 +66,4 @@ A mathematical optimization problem solved using libraries such as PuLP or SciPy
 ## 🧑‍💻 How to Use
 
 1. Clone the repository:
-   ```bash
  (https://github.com/Poulomi15/CODTECH_IT_SOLUTIONS_Data_Science)
